@@ -1,6 +1,6 @@
 # Hi, I'm Greygray.
 
-I write, build software, make strange digital worlds, and spend a suspicious amount of time asking what else technology could become.
+I create books, software and strange digital worlds, and spend a suspicious amount of time asking what else technology could become.
 
 ## Public showcases
 
@@ -14,7 +14,7 @@ Two research books built as negatives of each other. One tries to reconstruct th
 
 #### [The Gospel of the Grey](https://github.com/nickmokashi/the-gospel-of-the-grey-showcase)
 
-A gospel-shaped book in progress: seven levels of hell, an intermission on Earth, seven levels of heaven, and the road home. Scripture found in a break room.
+A gospel-shaped book in progress: seven levels of hell, the Intermission, seven levels of heaven, and the Final Return. Scripture found in a break room.
 
 #### [Gradient Mining](https://github.com/nickmokashi/gradient-mining-showcase)
 
@@ -58,7 +58,7 @@ I do not use it to avoid having ideas. I use it to pursue ideas that would other
 
 Human judgment stays in the driver's seat.
 
-## I also write
+## What the work explores
 
 My work explores consciousness, spirituality, recovery, identity, suffering, humor, technology, and the strange territory between certainty and mystery.
 

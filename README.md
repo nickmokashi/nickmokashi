@@ -2,31 +2,53 @@
 
 I write, build software, make strange digital worlds, and spend a suspicious amount of time asking what else technology could become.
 
-I am the creator of **[The Grey Zone](https://thegreyzone.xyz)**, an always-growing collection of writing, books, podcasts, software, games, experiments, and places to think differently.
-
 ## Public showcases
 
 The working source stays private while these public repositories show what each project is, what currently works, and where it is going.
 
-### [The Grey Zone](https://github.com/nickmokashi/the-grey-zone-showcase)
+### Books
 
-Magic, reality, and the strange machinery in between. Eleven rooms currently hold essays, books, a public-domain library, tarot, grounding frequencies, subscriber gatherings, and two playable worlds. The map keeps changing as existing rooms deepen and new doors open.
+#### [The Image of God and The Counterimage](https://github.com/nickmokashi/the-image-of-god-showcase)
 
-### [Takesmith](https://github.com/nickmokashi/takesmith-showcase)
+Two research books built as negatives of each other. One tries to reconstruct the Source from the traces it left behind. The other walks the same ladder toward what opposes it.
 
-A local-first teleprompter and podcast studio that follows the person speaking instead of forcing the person to follow the script.
+#### [The Gospel of the Grey](https://github.com/nickmokashi/the-gospel-of-the-grey-showcase)
 
-### [Synsemble](https://github.com/nickmokashi/synsemble-showcase)
+A gospel-shaped book in progress: seven levels of hell, an intermission on Earth, seven levels of heaven, and the road home. Scripture found in a break room.
+
+#### [Gradient Mining](https://github.com/nickmokashi/gradient-mining-showcase)
+
+A research book about getting useful work out of the difference between things, and a Windows map of the research behind it.
+
+### Software
+
+#### [Synsemble](https://github.com/nickmokashi/synsemble-showcase)
 
 A Windows desktop app that runs a small AI organization you own, staffs each job with the fewest workers it needs, checks the result independently, and shows the real work as a living building.
 
-### [QuotaSpring](https://github.com/nickmokashi/quotaspring-showcase)
+#### [Takesmith](https://github.com/nickmokashi/takesmith-showcase)
 
-A local-first Windows dashboard that shows API balances, quotas, usage, burn rates, and alerts without inventing numbers a provider does not expose.
+A local-first teleprompter and podcast studio that follows the person speaking instead of forcing the person to follow the script.
 
-### [Trail Mix](https://github.com/nickmokashi/trail-mix-showcase)
+#### [Worksong](https://github.com/nickmokashi/worksong-showcase)
 
-A local-first experiment in turning the messy way you solved something once into durable knowledge, a reusable Skill, or a supervised Workflow.
+A small Windows app that scores your computer work in real time with continuous instrumental music, calmer when the work is quiet and busier when it picks up.
+
+#### [Eonweld](https://github.com/nickmokashi/eonweld-showcase)
+
+A god game about land, intelligent life, and consequences across centuries. Shape a world, then watch its people make history.
+
+#### [Iterstead](https://github.com/nickmokashi/iterstead-showcase)
+
+A Windows app that keeps Claude Code working toward a result you defined, checks the work itself, and hands failures back until it works.
+
+#### [ENDOCOSM](https://github.com/nickmokashi/endocosm-showcase)
+
+A world built from what a person keeps. Journal entries, memories, beliefs, dreams and questions become lights in a place you can walk through. The universe expands outward. This one expands inward.
+
+#### [Venture Engine](https://github.com/nickmokashi/venture-engine-showcase)
+
+A laboratory for small businesses, not a promise. It finds ideas worth testing, builds evidence, and kills weak ones early, because killing weak ideas is what saves money. Every budget starts at $0.
 
 ## I build with AI
 
@@ -39,12 +61,6 @@ Human judgment stays in the driver's seat.
 ## I also write
 
 My work explores consciousness, spirituality, recovery, identity, suffering, humor, technology, and the strange territory between certainty and mystery.
-
-I call that territory **the Grey Zone**.
-
-## Enter the larger world
-
-**[Visit The Grey Zone](https://thegreyzone.xyz)**
 
 ---
 

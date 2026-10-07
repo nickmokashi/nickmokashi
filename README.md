@@ -46,6 +46,10 @@ A Windows app that keeps Claude Code working toward a result you defined, checks
 
 A world built from what a person keeps. Journal entries, memories, beliefs, dreams and questions become lights in a place you can walk through. The universe expands outward. This one expands inward.
 
+#### [Prunegraft](https://github.com/nickmokashi/prunegraft)
+
+A self-improving skill keeper for Claude Code, and the one project here whose code is public. It prunes the skills you never use and grafts new ones where your work keeps repeating itself. Works on Windows.
+
 #### [Venture Engine](https://github.com/nickmokashi/venture-engine-showcase)
 
 A laboratory for small businesses, not a promise. It finds ideas worth testing, builds evidence, and kills weak ones early, because killing weak ideas is what saves money. Every budget starts at $0.

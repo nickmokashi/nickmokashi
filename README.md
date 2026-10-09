@@ -34,9 +34,9 @@ A local-first teleprompter and podcast studio that follows the person speaking i
 
 A small Windows app that scores your computer work in real time with continuous instrumental music, calmer when the work is quiet and busier when it picks up.
 
-#### [Eonweld](https://github.com/nickmokashi/eonweld-showcase)
+#### [Eonweld](https://thegreystrand.com/eonweld/)
 
-A god game about land, intelligent life, and consequences across centuries. Shape a world, then watch its people make history.
+A god game about land, intelligent life, and consequences across centuries. Shape a world, then watch its people make history. Free to play in your browser, at [thegreystrand.com](https://thegreystrand.com/eonweld/).
 
 #### [Iterstead](https://github.com/nickmokashi/iterstead-showcase)
 

@@ -6,6 +6,12 @@ I create books, software and strange digital worlds, and spend a suspicious amou
 
 The working source stays private while these public repositories show what each project is, what currently works, and where it is going.
 
+### The website
+
+#### [The Grey Strand](https://github.com/nickmokashi/the-grey-strand-showcase)
+
+A website built as a house, at [thegreystrand.com](https://thegreystrand.com). Every room holds a different kind of work: articles, a podcast, books, a tarot deck, paintings, sound and games. Not every door is on the map.
+
 ### Books
 
 #### [The Image of God and The Counterimage](https://github.com/nickmokashi/the-image-of-god-showcase)

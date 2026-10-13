@@ -44,10 +44,6 @@ A small Windows app that scores your computer work in real time with continuous 
 
 A god game about land, intelligent life, and consequences across centuries. Shape a world, then watch its people make history. Free to play in your browser, at [thegreystrand.com](https://thegreystrand.com/eonweld/).
 
-#### [Iterstead](https://github.com/nickmokashi/iterstead-showcase)
-
-A Windows app that keeps Claude Code working toward a result you defined, checks the work itself, and hands failures back until it works.
-
 #### [ENDOCOSM](https://github.com/nickmokashi/endocosm-showcase)
 
 A world built from what a person keeps. Journal entries, memories, beliefs, dreams and questions become lights in a place you can walk through. The universe expands outward. This one expands inward.

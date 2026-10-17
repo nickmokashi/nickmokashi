@@ -48,6 +48,10 @@ A god game about land, intelligent life, and consequences across centuries. Shap
 
 A world built from what a person keeps. Journal entries, memories, beliefs, dreams and questions become lights in a place you can walk through. The universe expands outward. This one expands inward.
 
+#### [The Living Sphere](https://github.com/nickmokashi/the-living-sphere-showcase)
+
+An AI system at work, shown as a sphere of a million metal pins. Ask it something out loud and watch it listen, look things up, use its tools and answer, every step rippling across the sphere as it happens.
+
 #### [Prunegraft](https://github.com/nickmokashi/prunegraft)
 
 A self-improving skill keeper for Claude Code, and the one project here whose code is public. It prunes the skills you never use and grafts new ones where your work keeps repeating itself. Works on Windows.

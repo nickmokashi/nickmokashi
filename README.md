@@ -52,6 +52,10 @@ A world built from what a person keeps. Journal entries, memories, beliefs, drea
 
 An AI system at work, shown as a sphere of a million metal pins. Ask it something out loud and watch it listen, look things up, use its tools and answer, every step rippling across the sphere as it happens.
 
+#### [Polaritium](https://github.com/nickmokashi/polaritium-showcase)
+
+A 3D universe of opposing forces you can touch. Connect light and dark, twist and tune what joins them, and watch rings, crystals and small living forms emerge on their own. A Windows game; the AI is optional and has a hard spending limit.
+
 #### [Prunegraft](https://github.com/nickmokashi/prunegraft)
 
 A self-improving skill keeper for Claude Code, and the one project here whose code is public. It prunes the skills you never use and grafts new ones where your work keeps repeating itself. Works on Windows.

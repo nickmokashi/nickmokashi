@@ -4,7 +4,7 @@ I create books, software and strange digital worlds, and spend a suspicious amou
 
 ## Public showcases
 
-The working source stays private while these public repositories show what each project is, what currently works, and where it is going.
+Most working source stays private while these public repositories show what each project is, what currently works, and where it is going. Polaritium and Prunegraft are open source.
 
 ### The website
 
@@ -54,11 +54,11 @@ An AI system at work, shown as a sphere of a million metal pins. Ask it somethin
 
 #### [Polaritium](https://github.com/nickmokashi/polaritium-showcase)
 
-A 3D universe of opposing forces you can touch. Connect light and dark, twist and tune what joins them, and watch rings, crystals and small living forms emerge on their own. A Windows game; the AI is optional and has a hard spending limit.
+A 3D universe of opposing forces you can touch. Connect light and dark, twist and tune what joins them, and watch rings, crystals and small living forms emerge on their own. A Windows game; the AI is optional and has a hard spending limit. Free and open source: [the code](https://github.com/nickmokashi/polaritium).
 
 #### [Prunegraft](https://github.com/nickmokashi/prunegraft)
 
-A self-improving skill keeper for Claude Code, and the one project here whose code is public. It prunes the skills you never use and grafts new ones where your work keeps repeating itself. Works on Windows.
+A self-improving skill keeper for Claude Code, with its code in the open. It prunes the skills you never use and grafts new ones where your work keeps repeating itself. Works on Windows.
 
 #### [Venture Engine](https://github.com/nickmokashi/venture-engine-showcase)
 

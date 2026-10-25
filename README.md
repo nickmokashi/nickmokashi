@@ -4,7 +4,7 @@ I create books, software and strange digital worlds, and spend a suspicious amou
 
 ## Public showcases
 
-Most working source stays private while these public repositories show what each project is, what currently works, and where it is going. Polaritium is open source.
+Most working source stays private while these public repositories show what each project is, what currently works, and where it is going.
 
 ### The website
 
@@ -54,7 +54,7 @@ An AI system at work, shown as a sphere of a million metal pins. Ask it somethin
 
 #### [Polaritium](https://github.com/nickmokashi/polaritium-showcase)
 
-A 3D universe of opposing forces you can touch. Connect light and dark, twist and tune what joins them, and watch rings, crystals and small living forms emerge on their own. A Windows game; the AI is optional and has a hard spending limit. Free and open source: [the code](https://github.com/nickmokashi/polaritium).
+A 3D universe of opposing forces you can touch. Connect light and dark, twist and tune what joins them, and watch rings, crystals and small living forms emerge on their own. A Windows game; the AI is optional and has a hard spending limit.
 
 #### [Venture Engine](https://github.com/nickmokashi/venture-engine-showcase)
 
